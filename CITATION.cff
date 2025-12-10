@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this tokenisation scheme, please cite it as:"
+title: "BALAGHAScore.com Arabic Word Tokenisation Scheme v0.1.0"
+authors:
+  - family-names: "Marathe"
+    given-names: "Mandar"
+    orcid: "https://orcid.org/0000-0002-6927-6836"
+    email: "mandar@marathe.org"
+    affiliation: "SOAS University of London"
+
+doi: "10.64393/balagha-score.tokenisation-v0.1.0"
+
+date-released: "2025-12-10"
+version: "0.1.0"
+url: "https://doi.org/10.64393/balagha-score.tokenisation-v0.1.0"
+
+preferred-citation:
+  type: dataset
+  title: "BALAGHAScore.com Arabic Word Tokenisation Scheme v0.1.0"
+  authors:
+    - family-names: "Marathe"
+      given-names: "Mandar"
+      orcid: "https://orcid.org/0000-0002-6927-6836"
+  year: 2025
+  version: "0.1.0"
+  url: "https://doi.org/10.64393/balagha-score.tokenisation-v0.1.0"
