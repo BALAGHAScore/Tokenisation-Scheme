@@ -4,7 +4,8 @@
 
 A linguistically principled, rhetoric-oriented **morphological tokenisation framework** for tokenising Arabic words into constituent **meaning-bearing word units** for [rhetorical density](https://rhetorical-density.com) calculations and other digital humanities applications.
 
-[![DOI](https://zenodo.org/badge/DOI/10.64393/balagha-score.tokenisation-v0.1.0.svg)](https://doi.org/10.64393/balagha-score.tokenisation-v0.1.0)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17877973.svg)](https://doi.org/10.5281/zenodo.17877973)
+
 
 &nbsp;
 ## 🔢 Changelog

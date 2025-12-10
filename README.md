@@ -4,18 +4,19 @@
 
 A linguistically principled, rhetoric-oriented **morphological tokenisation framework** for tokenising Arabic words into constituent **meaning-bearing word units** for [rhetorical density](https://rhetorical-density.com) calculations and other digital humanities applications.
 
-[![DOI](https://zenodo.org/badge/DOI/10.64393/balagha-score.tokenisation-v0.1.0.svg)](https://doi.org/10.64393/balagha-score.tokenisation-v0.1.0)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17877973.svg)](https://doi.org/10.5281/zenodo.17877973)
+
 
 &nbsp;
 ## ℹ️ About
-The **[Arabic Word Tokenisation Scheme](https://doi.org/10.64393/balagha-score.tokenisation-v0.1.0)** is a formal set of rules for consistently segmenting Arabic text into meaningful word units, optimised for the calculation of the **[BALAGHA Score](https://balaghascore.com)** — a quantitative metric of rhetorical density in both classical and contemporary Arabic texts.
+The **[Arabic Word Tokenisation Scheme](https://doi.org/10.5281/zenodo.17877973)** is a formal set of rules for consistently segmenting Arabic text into meaningful word units, optimised for the calculation of the **[BALAGHA Score](https://balaghascore.com)** — a quantitative metric of rhetorical density in both classical and contemporary Arabic texts.
 
 Unlike general NLP tokenisers, this scheme defines token boundaries based on a **meaning-first philosophy** tailored to rhetorical analysis. It was originally developed in 2022 as part of the author’s [research](https://doi.org/10.48550/arXiv.2507.21106) into rhetorical density and has since been refined for broader computational, DH, and corpus-linguistic applications.
 
 This repository serves as the **open, citable, version-controlled reference** of the Arabic Word Tokenisation Scheme.
 The scheme is freely released under **CC BY 4.0** to support reproducible research in Arabic NLP, digital humanities, education, and rhetorical studies.
 
-📄 Zenodo DOI: [https://doi.org/10.64393/balagha-score.tokenisation-v0.1.0](https://doi.org/10.64393/balagha-score.tokenisation-v0.1.0)
+📄 Zenodo DOI: [https://doi.org/10.5281/zenodo.17877973](https://doi.org/10.5281/zenodo.17877973)
 
 
 &nbsp;
@@ -103,10 +104,10 @@ Includes complete documentation (PDF) and example workflows.
 &nbsp;
 ### 📖 How to Cite
 **APA:**
-Marathe, M. (2025). BALAGHAScore.com Arabic Word Tokenisation Scheme v0.1.0 [Data set]. Zenodo. https://doi.org/10.64393/balagha-score.tokenisation-v0.1.0
+Marathe, M. (2025). BALAGHAScore.com Arabic Word Tokenisation Scheme v0.1.0 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17877973
 
 **Chicago:**
-Marathe, Mandar. 'BALAGHAScore.com Arabic Word Tokenisation Scheme v0.1.0'. Data set, Zenodo, 2025. https://doi.org/10.64393/balagha-score.tokenisation-v0.1.0
+Marathe, Mandar. 'BALAGHAScore.com Arabic Word Tokenisation Scheme v0.1.0'. Data set, Zenodo, 2025. https://doi.org/10.5281/zenodo.17877973
 
 **BibTeX:**
 ```bibtex
@@ -115,7 +116,7 @@ Marathe, Mandar. 'BALAGHAScore.com Arabic Word Tokenisation Scheme v0.1.0'. Data
   title = {BALAGHAScore.com Arabic Word Tokenisation Scheme v0.1.0},
   year = {2025},
   version = {0.1.0},
-  url = {https://doi.org/10.64393/balagha-score.tokenisation-v0.1.0}
+  url = {https://doi.org/10.5281/zenodo.17877973
 }
 ```
 
